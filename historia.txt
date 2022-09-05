@@ -1,6 +1,6 @@
 esta es la historia de bryan
 
-bryan esta aprendiendo a programas
+bryan ya aprendio a programar
 
 y esta aprendiendo git
 
